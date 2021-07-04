@@ -1,0 +1,12 @@
+Programming Intro~91~5
+Linear Algebra~87~4.5
+Calculus 1~88~5
+Data Structures~88~5
+Logics~84~5
+Physics~100~3.5
+MA~95~1
+OOP~75~3
+ECS~78~3.5
+SPL~88~5
+DB~81~3.5
+Data Intro~92~3.5
